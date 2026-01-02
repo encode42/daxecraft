@@ -17,8 +17,16 @@ file = "config/audioplayer/audioplayer-server.properties"
 hash = "cf37def0d133ba176fed647f9d4f80d84f8a9fa1282a8e796af7fbd1504155d1"
 
 [[files]]
+file = "config/autowhitelist.json5"
+hash = "cad9410c87a731c6981634bb5e7009a6e8ba420c56fd1b32ea6cdccb4b3ed981"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
+
+[[files]]
+file = "config/custom-nametags/config.json"
+hash = "6287c594f508f8d83b606bdc0250c628531f7e31efae2c21036d93c468cabc90"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -38,7 +46,7 @@ hash = "988dc62342b307ef78f5c1c0fa3236ce77180591312dba5a065059c62c4c38f0"
 
 [[files]]
 file = "config/pl3xmap/config.yml"
-hash = "c66168df3f7032234784e74bd5e6a9ef17078fef291d46a5db2aa14623c322ec"
+hash = "4f495a0d031cbb291c484ef2505500e9297afcfe15eb4f6c9cb094c657b0de49"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -69,7 +77,7 @@ file = "config/universal-graves/models/modified_default.json"
 hash = "6585cf34c6ea5c7b0462cc7bdd032eb728bd14f1e644eee87df73fefbc11402c"
 
 [[files]]
-file = "config/voicechat-server.properties"
+file = "config/voicechat/voicechat-server.properties"
 hash = "b7a88ee8cde6ed604eb8e8a03619545472b204f3cee20ab64085349c633fde26"
 
 [[files]]
@@ -132,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "15a93334b9ed28ce4f4704801a48357814ca4aa6d546784c2e891de88d374f58"
+metafile = true
+
+[[files]]
+file = "mods/customnametags.pw.toml"
+hash = "299d5fc158ca139dfaf9de7e2f608bad9b2cf697539ae2eb7fcd96403f985a97"
 metafile = true
 
 [[files]]
