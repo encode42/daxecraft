@@ -111,11 +111,6 @@ hash = "7fb45c555376b85332fa8e1c78fc911a76ae19a929565564b5488dc56bd53781"
 metafile = true
 
 [[files]]
-file = "mods/chat-bubbles.pw.toml"
-hash = "9e554186f7ec5b3bf1d564e448295ed309033fbdb1b4edf2e42d2443c3dde64e"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "44632c5726b473b683614443083391a29951fc6de734043c8d5ddf1ab5d2764f"
 metafile = true
@@ -183,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
-metafile = true
-
-[[files]]
-file = "mods/leashable-players.pw.toml"
-hash = "0ff96ae450ebc2df79d28c80bbcfed80d62e3c9f816af830b1b9d0baf5e537b0"
 metafile = true
 
 [[files]]
