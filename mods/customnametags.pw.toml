@@ -1,0 +1,13 @@
+name = "CustomNameTags"
+filename = "CustomNameTags-1.2.0+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TizFPouK/versions/ckoKgbSK/CustomNameTags-1.2.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "2bd295f7340234126914f7ab67ea5bbd4084e8d00146f3bb130676064e19120ff91370fae008274b2d5d222c1aa823021c4598be487a8f633ef2af81627087ba"
+
+[update]
+[update.modrinth]
+mod-id = "TizFPouK"
+version = "ckoKgbSK"

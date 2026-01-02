@@ -1,0 +1,9 @@
+{
+  "nametags": [
+    {
+      "id": "default:nick",
+      "update_interval": 20,
+      "literal": "%styled-nicknames:display_name%"
+    }
+  ]
+}
