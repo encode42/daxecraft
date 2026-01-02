@@ -2,7 +2,7 @@
   "_comment": "Before changing anything, see https://github.com/Patbox/UniversalGraves#configuration",
   "config_version": 4,
   "protection": {
-    "non_owner_protection_time": 900,
+    "non_owner_protection_time": 300,
     "self_destruction_time": -1,
     "drop_items_on_expiration": true,
     "attackers_bypass_protection": false,
@@ -14,7 +14,7 @@
       "count": 0
     },
     "give_death_compass": false,
-    "enable_use_death_compass_to_open_gui": true,
+    "enable_use_death_compass_to_open_gui": false,
     "enable_click_to_open_gui": false,
     "shift_and_use_quick_pickup": false,
     "break_quick_pickup": true,
@@ -48,8 +48,8 @@
     "block_in_protected_area": {},
     "blacklisted_worlds": [],
     "blacklisted_areas": {},
-    "creation_default_failure_text": "<red><lang:'text.graves.creation_failed':'<gold>${position}':'<yellow>${world}'>",
-    "creation_claim_failure_text": "<red><lang:'text.graves.creation_failed_claim':'<gold>${position}':'<yellow>${world}'>"
+    "creation_default_failure_text": "<red><lang:'text.graves.creation_failed':'<yellow>${position}':'<red>${world}'>",
+    "creation_claim_failure_text": "<red><lang:'text.graves.creation_failed_claim':'<yellow>${position}':'<red>${world}'>"
   },
   "teleportation": {
     "cost": {
@@ -68,7 +68,7 @@
     }
   },
   "model": {
-    "default": "default",
+    "default": "modified_default",
     "alternative": [],
     "hide_f3_debug_lines": true,
     "gravestone_item_base": "minecraft:skeleton_skull",
@@ -303,10 +303,10 @@
     }
   },
   "text": {
-    "grave_created": "<white><lang:'text.graves.created_at':'<yellow>${position}':'<gray>${world}':'<red>${break_time}'>",
-    "protection_ended": "<red><lang:'text.graves.no_longer_protected':'<gold>${position}':'<white>${world}':'<yellow>${item_count}'>",
+    "grave_created": "<white><lang:'text.graves.created_at':'<yellow>${position}':'<white>${world}':'<red>${break_time}'>",
+    "protection_ended": "<red><lang:'text.graves.no_longer_protected':'<yellow>${position}':'<red>${world}':'<white>${item_count}'>",
     "grave_expired": "<red><lang:'text.graves.expired':'<gold>${position}':'<white>${world}':'<yellow>${item_count}'>",
-    "grave_broken": "<gray><lang:'text.graves.somebody_broke':'<white>${position}':'<white>${world}':'<white>${item_count}'>",
+    "grave_broken": "<red><lang:'text.graves.somebody_broke':'<yellow>${position}':'<red>${world}':'<white>${item_count}'>",
     "grave_access_payment_no_access": "<red><lang:'text.graves.grave_unlock_payment.no_access'>",
     "grave_payment_accepted": "<white><lang:'text.graves.grave_unlock_payment.accepted'>",
     "grave_payment_failed": "<red><lang:'text.graves.grave_unlock_payment.failed':'<yellow>${cost}'>",
