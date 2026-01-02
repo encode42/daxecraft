@@ -62,7 +62,11 @@ hash = "ba1910ea7e055ed46abbc5a90e746459d8583297ccb5de460f43941dc86b29ac"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "0dbd9b570a1c9006a7b14b9f9aa8ec373d67791249cf453442dfa9e82d05b82d"
+hash = "4b7f139690d13bfe1d3abb68e8c44c3bd0708778d7d6a7440584113db5b68c79"
+
+[[files]]
+file = "config/universal-graves/models/modified_default.json"
+hash = "6585cf34c6ea5c7b0462cc7bdd032eb728bd14f1e644eee87df73fefbc11402c"
 
 [[files]]
 file = "config/voicechat-server.properties"
@@ -198,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "c921067d060d427e9295c8434d0ab1232566008caa300030b42c2ee2c12ad059"
+metafile = true
+
+[[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "3dae24b3d4a5d4a99b5cf5629d5df236e128fddaef9c6202a19f0136769a1bb2"
 metafile = true
 
 [[files]]
@@ -352,7 +361,7 @@ hash = "a5b21f6a2682b9c34797a0ec7a3c860cc2366a938bc86b1378017e1c82aa97c1"
 
 [[files]]
 file = "server.properties"
-hash = "98265ebccc479e4e0f6c27166412b379db5a4b62e53be7f1020241f7cb182a7c"
+hash = "9d04f2e3b54451251f6a006a688d57fb7207b63de7f5fbe8aab647a382b53bdb"
 
 [[files]]
 file = "servers.dat"

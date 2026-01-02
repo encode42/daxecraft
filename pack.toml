@@ -1,12 +1,12 @@
 name = "daxecord"
 author = "encode42"
-version = "0.0.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "582c13ffa96c935de060288ffcaf86d97d2c1c723b6fb244ddbaaf3f4f0a0377"
+hash = "da23d3c2ff414708624116ab204dc1425388465621d302f584c6dbeccb87befe"
 
 [versions]
 fabric = "0.18.4"
