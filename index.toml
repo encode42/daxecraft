@@ -18,7 +18,7 @@ hash = "cf37def0d133ba176fed647f9d4f80d84f8a9fa1282a8e796af7fbd1504155d1"
 
 [[files]]
 file = "config/autowhitelist.json5"
-hash = "cad9410c87a731c6981634bb5e7009a6e8ba420c56fd1b32ea6cdccb4b3ed981"
+hash = "5768cd8e7ee7c2165befd98d8d139803946d60e5e8a200d1074a873e776a36a4"
 
 [[files]]
 file = "config/chunky/config.json"

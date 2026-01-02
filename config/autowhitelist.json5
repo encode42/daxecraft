@@ -43,7 +43,7 @@
       ],
       "type": "autowhitelist:execute_command",
       "execute": {
-        "on_add": "lp user {player} parent set linked",
+        "on_add": "lp user {player} parent add linked",
         "on_remove": "lp user {player} parent remove linked"
       }
     }
