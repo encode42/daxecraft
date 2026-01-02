@@ -1,0 +1,51 @@
+{
+	// The JSON schema for the config, this is for text editors to show syntax highlighting, do not change it
+	"$schema": "https://awakenedredstone.com/json-schema/autowhitelist/draft-06.json",
+	// DO NOT CHANGE, MODIFYING THIS VALUE WILL BREAK THE CONFIGURATION FILE
+	"CONFIG_VERSION": 6,
+	// When enabled, it will keep a cache of previous registered users and will use it to automatically add the user back (if they have the proper role)
+	"enable_whitelist_cache": true,
+	/* The delay (in seconds) for checking for invalid and outdated entries. This ensures everything is up to date in case the bot misses an event
+	   [Min: 10, Max: 600]
+	*/
+	"periodic_check_delay": 60,
+	// The activity type shown on the bot status, must be in UPPERCASE
+	"bot_activity_type": "PLAYING",
+	// The text shown on the bot activity status
+	"bot_activity_text": "on the Member Server",
+	/* The time the bot will lock a whitelist entry after it is added or updated, use -1 to lock all entries forever
+	   Changes to this value will only apply to new entries, except for permanent lock which is immediate and global
+	   Check the documentation for more details on how the format works
+	*/
+	"lock_time": "1d",
+	// Your bot's token. Never share it, anyone with it has full control of the bot
+	"token": "<redacted>",
+	"discord_server_id": 838873958522421268,
+	// When enabled, all interactions and slash commands will be ephemeral, meaning only the user can see the response.
+	"ephemeral_replies": true,
+	// When enabled, the bot will cache the data of the users on discord, this reduces response time, but may cause higher memory usage on large discord servers.
+	"cache_discord_data": true,
+	/* The permission level used for command entries. This limits what commands the mod can run, you likely don't need to change this.
+	   Check https://minecraft.wiki/w/Permission_level for more about permission levels.
+	*/
+	"command_permission_level": 3,
+	// The whitelist entry settings, please refer to the documentation to set them up
+	"entries": [
+	{
+      "roles": [
+        "988523383094378496",
+        "884221622465228830",
+        "943712065040810044",
+        "@hatchling",
+        "838912594076237854",
+        "987237168332304415",
+        "@Citadel Voice"
+      ],
+      "type": "autowhitelist:execute_command",
+      "execute": {
+        "on_add": "lp user {player} parent set linked",
+        "on_remove": "lp user {player} parent remove linked"
+      }
+    }
+    ]
+}
