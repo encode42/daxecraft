@@ -41,10 +41,9 @@
         "987237168332304415",
         "@Citadel Voice"
       ],
-      "type": "autowhitelist:execute_command",
+      "type": "autowhitelist:luckperms/group",
       "execute": {
-        "on_add": "lp user {player} parent add linked",
-        "on_remove": "lp user {player} parent remove linked"
+        "group": "linked"
       }
     }
     ]
