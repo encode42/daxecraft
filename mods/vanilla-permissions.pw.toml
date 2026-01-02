@@ -1,0 +1,13 @@
+name = "Vanilla Permissions"
+filename = "vanilla-permissions-0.3.1+1.21.11-rc2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/qux5aobv/vanilla-permissions-0.3.1%2B1.21.11-rc2.jar"
+hash-format = "sha512"
+hash = "7c5fc402537005e79bcb956e7d6933bf0a87a5db24b29410966aa3f5a7dbf25be2ef3a513bc26e6bb6f1fefd3d4404707fddd95e769e19443fa9c6757854c703"
+
+[update]
+[update.modrinth]
+mod-id = "fdZkP5Bb"
+version = "qux5aobv"

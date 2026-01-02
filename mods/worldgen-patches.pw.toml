@@ -1,0 +1,13 @@
+name = "Worldgen Patches"
+filename = "worldgen-patches-1.1.1-fabric-1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MvC0OwYb/versions/HmfsAgDu/worldgen-patches-1.1.1-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "86db2448c673bcde189635edde4da573d45235390571b6dccf5a2de9ee0685b9e5720fc37074b7508a0ab537d3cf9cf4444ab2975e031255758d2b20bded0424"
+
+[update]
+[update.modrinth]
+mod-id = "MvC0OwYb"
+version = "HmfsAgDu"

@@ -1,0 +1,369 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MiniMOTD/icons/daxecraft.png"
+hash = "a5b21f6a2682b9c34797a0ec7a3c860cc2366a938bc86b1378017e1c82aa97c1"
+
+[[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "008df87e12d838042505ae38c22a3f54e6b92fab6ccec16096ce1a084f45804c"
+
+[[files]]
+file = "config/MiniMOTD/plugin_settings.conf"
+hash = "a439471712cd0db7c5983740dcfeffa33fda198c94e9ee7c0ff8ff95caffc28e"
+
+[[files]]
+file = "config/audioplayer/audioplayer-server.properties"
+hash = "cf37def0d133ba176fed647f9d4f80d84f8a9fa1282a8e796af7fbd1504155d1"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "5c39746c2be5b7eabe3cf2fa6b02af9ef80d805bab1c1c5207330a79c7306e4c"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "c9d2834b0946d272ee36f9663e23649fe8d6ce919577d8fc2acaa116bad0a388"
+
+[[files]]
+file = "config/moonrise.yml"
+hash = "bc66ae02408a7561cb1d2301aa9fc485632d2dccda62b51c2c81f2b041b9cba9"
+
+[[files]]
+file = "config/nethermap.toml"
+hash = "988dc62342b307ef78f5c1c0fa3236ce77180591312dba5a065059c62c4c38f0"
+
+[[files]]
+file = "config/pl3xmap/config.yml"
+hash = "c66168df3f7032234784e74bd5e6a9ef17078fef291d46a5db2aa14623c322ec"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "c46673933478ba1fca6db0b0f714c52d9b3dd7b00fce0c1f7eb35c7b93e5fa90"
+
+[[files]]
+file = "config/serverveinmine/config.json"
+hash = "0af72faf53adf37862d9a0402e9a1a29044eed0f71846a5b0664303b1a4b8ffc"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "230ef74f58b4ebfb809cc474e881be3462ede61d56a86437e935b4a3a1ac99f3"
+
+[[files]]
+file = "config/structure_layout_optimizer.jsonc"
+hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "ba1910ea7e055ed46abbc5a90e746459d8583297ccb5de460f43941dc86b29ac"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "0dbd9b570a1c9006a7b14b9f9aa8ec373d67791249cf453442dfa9e82d05b82d"
+
+[[files]]
+file = "config/voicechat-server.properties"
+hash = "b7a88ee8cde6ed604eb8e8a03619545472b204f3cee20ab64085349c633fde26"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "abbad71b44fd62da1c2d38395cb535659055aa80df1b0d2cd9c764ad38986e7f"
+
+[[files]]
+file = "configureddefaults/config/modmenu.json"
+hash = "cbb272545d031a7343779e03311612d915d29c96883a82f1652d580857104649"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "820cb4a18e847108dac2024aaceaf4071b83b3c762f200055795fc43c78b55ba"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "eb0287bff177c7dfab5802e6dd6adcf966b8f97101cbe583834950b41fc2af93"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fc8ffe66dc0c7eb55cf2ce38d1ae4bf1c4cdfbfdcda2636b1cd140c851e03cc5"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
+metafile = true
+
+[[files]]
+file = "mods/auto-connect-to-multiplayer-server.pw.toml"
+hash = "10b4df1f6db143d76a8390170ed4789acb14f033fb54bb70cf4e6f6e5dc238c5"
+metafile = true
+
+[[files]]
+file = "mods/autowhitelist.pw.toml"
+hash = "e4c3eae9368bcafa8da24420d1098d7f4de048da59d862d9b6392fdb74f6c2e5"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "7fb45c555376b85332fa8e1c78fc911a76ae19a929565564b5488dc56bd53781"
+metafile = true
+
+[[files]]
+file = "mods/chat-bubbles.pw.toml"
+hash = "9e554186f7ec5b3bf1d564e448295ed309033fbdb1b4edf2e42d2443c3dde64e"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "44632c5726b473b683614443083391a29951fc6de734043c8d5ddf1ab5d2764f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9111c98ca48e19914906e364b9ff6ac05c31d5fd6bff2d5c68f6726e828bb28c"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "cb07f1e3b039be7c3e0e2fe4ad8289e9e800c66a4c4f4e5eb244d1a26dd542d3"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "15a93334b9ed28ce4f4704801a48357814ca4aa6d546784c2e891de88d374f58"
+metafile = true
+
+[[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c23a1be7641341478b09c5c4f835b5e024a246f9e8521e92905bcab0d0e8cce0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3d2ce86fdedd05cd53966e1d16b2901206c98b43622260a35d3038e2c47f6250"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "25c7ac89266d7b64fde33d5d634a33619da9f8f42bc60121fba05c2381d4e24f"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
+metafile = true
+
+[[files]]
+file = "mods/invisible-frames-mod.pw.toml"
+hash = "a32b6a52f95718610b1bbf9e52979f633374faa57b8e068691e21d02ede39c22"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "80bdecdf7911f4b1b6c57d18717d8f435ae237991efdd4c43c50ba6f42bb2139"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "0ff96ae450ebc2df79d28c80bbcfed80d62e3c9f816af830b1b9d0baf5e537b0"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "8afd13c60f61fe1123f76169ec5588ce30b92f940a5e089098e622cb8c3bd21e"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "052f06542206356664307ad7f73ef7d37123da055dc362f13cfe76839afdb73a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "c921067d060d427e9295c8434d0ab1232566008caa300030b42c2ee2c12ad059"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "01e1533b99c6ea0143b6d6f725bd00d17cd982e3b22f47912fce5d6bcd881fa9"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "a513aec6c289d2bb4db107a0b444345b8d63b6fb157543197f78ab9c1505a219"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "4954db739f44deaefce8945d9658c4c9cdbe0974cf6c6d1bef25a09b9d4c5570"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "f6b5347902783cc3b1fd4e47635fbafa6470a901d723b7577e0606362a079155"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "f1fb100d35bf940332ff0fa81f6f0d5d7c538dbe69e2a153e21f6a3f72448899"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "433ae6cd6f6e4cbc118502b65846bb066e32a907dc704ad192ca5b38b070320d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "7a3c33063d5b2fa742e803fb3a7f4c5542b168cc019c68fd5a969ecfd2b4ae96"
+metafile = true
+
+[[files]]
+file = "mods/server-sided-vein-mine.pw.toml"
+hash = "4f47469cec06639d19edba8d5db63917a4b49fc3762c55b739e2b4b0f6e5f039"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "13b6ac9fab1c054c963923dfa153e533af22905919874409e938e28ff8dd4f47"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "424ba6f67a9392eb474ead2ea4ce5e3b6cc4f9041a4d27e61ad60a1abb009a50"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "455cf624c832fe100360f6a3d654059f3edfbcd432288d7f19efbd21afae1460"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "c1166e4664aa67501d4daafac5e69cb29094dd46942d35e64b4d5d8a0a54decd"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "59ce369b916c069fe3f024b7f0c3380c7d0df2d5fc913dfa788dcc703ea1eee4"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "71d8e5e37e9962620de802c9c2b194cbd7f86e34f63e6efbd0cdadac68750372"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "98f6ceea9a07d7cf9f08bce86fe8fb340f806fa1a0b6ec8f6f16dcbcafd42475"
+metafile = true
+
+[[files]]
+file = "mods/worldgen-patches.pw.toml"
+hash = "fa16e33791bb4520cb32d13eb9cf8ead96d8ad5913585d9e44594c7e049c3c28"
+metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "c271325010f74d23278468785d5dd56919c232d9e0d0559e2d8e6ac5f9907065"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d3d5eb8390ad1c8ec30abe98c1edb9d9c6f2ac14c12ff1345a38d5964d5f1b0f"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "3a2b4fd5c823f3777dc12b08f3a63faf335bd659bb3499b151dc998d99a70dd2"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "f47b467d4b93e1e2f8e72385649d2aa403679cbd1d20ccc61b4cb7e2efc0ccfa"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "d7dea1b8e639730ee31c548aae122af43c364ed47347d8bf0cb2d9746cab4bcd"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "7ae534caf1f52ef2a7ce914228a1fa85a9807f9ec45085880e22684bc490d5a3"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/edition.png"
+hash = "bcbc4459d429c9da310c2eec23bb5f6aa9de960baea1ebca367ab6afd17c219a"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "89a3f0a3ccd93dc99a6fe18711b2dc05c6582500067887eaaca6ec7782dbe3f0"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/pack.mcmeta"
+hash = "69c1f7f2e50ea8b3706aefa9add772246c9a476fcdc68e796d3cd0cff1f1bccf"
+
+[[files]]
+file = "resources/resourcepack/required/daxecraft/pack.png"
+hash = "a5b21f6a2682b9c34797a0ec7a3c860cc2366a938bc86b1378017e1c82aa97c1"
+
+[[files]]
+file = "server.properties"
+hash = "98265ebccc479e4e0f6c27166412b379db5a4b62e53be7f1020241f7cb182a7c"
+
+[[files]]
+file = "servers.dat"
+hash = "61846235a2eba5b5b17a0ec939da5652ab1ce13c10604ef763feb7e46e67920a"

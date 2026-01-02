@@ -1,0 +1,13 @@
+name = "Auto Connect To Multiplayer Server"
+filename = "auto-connect-to-multiplayer-server-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DvnlxY7D/versions/YHhQuNWv/auto-connect-to-multiplayer-server-1.0.1.jar"
+hash-format = "sha512"
+hash = "a2d04230a4192af04295928ecb869b603165e7de5c7c92dfe157a71923e27e88fe6667f8d22010cdb504563a70d42243d53a3082526b7a97825ca28c7eb4f486"
+
+[update]
+[update.modrinth]
+mod-id = "DvnlxY7D"
+version = "YHhQuNWv"

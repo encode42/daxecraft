@@ -1,0 +1,13 @@
+name = "daxecord"
+author = "encode42"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0662e96fc02bf2be45dcaa303271f22d1b854fad6f0ea859baf3779ea96b6f0c"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

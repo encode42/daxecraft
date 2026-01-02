@@ -1,0 +1,13 @@
+name = "Chat Bubbles"
+filename = "chat-bubbles-1.0.1.jar.disabled"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gpWF9rJG/versions/tMXfEhSR/chat-bubbles-1.0.1.jar"
+hash-format = "sha512"
+hash = "4a3c7f0859cdd4858c64e8b266c8f9f640bc847ecbfed08f812948caa5b8b311f3dbd0cb817ab9284a15c81b081a4b9e0921d4d182a87e1657e71a49228af658"
+
+[update]
+[update.modrinth]
+mod-id = "gpWF9rJG"
+version = "tMXfEhSR"
