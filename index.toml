@@ -215,6 +215,10 @@ hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
+file = "mods/luckperms/luckperms-h2-v2.mv.db"
+hash = "d89e1b82ff2f9c8d1baa7ef438767f1a186d9d39b8d4c4c4ce977d60c89aa781"
+
+[[files]]
 file = "mods/minimotd.pw.toml"
 hash = "072589c2436b05489b0e8271d7b2bd51b8e47de9b319541025cd49d412cc6cb1"
 metafile = true
