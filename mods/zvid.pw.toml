@@ -1,0 +1,13 @@
+name = "ZombieVillagerIgnoreDifficulty"
+filename = "zvid-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1g0RWrht/versions/3tsZiGaA/zvid-1.0.1.jar"
+hash-format = "sha512"
+hash = "17923de56cbb7f050b3b7a1f5e9646bbf377ceb3efb633e0731a207b37a4667b9a9a775a9b453bd20fbb55438eadb0daa2dc420a3b0875153f8eb3f7b7541d5f"
+
+[update]
+[update.modrinth]
+mod-id = "1g0RWrht"
+version = "3tsZiGaA"
