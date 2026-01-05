@@ -29,11 +29,11 @@ jobs:
       - name: Build Modrinth pack
         run: |
           mkdir build
-          packwiz modrinth export --output build/daxecord-${{ steps.version.outputs.VERSION }}.mrpack
+          packwiz modrinth export --output build/daxecraft-${{ steps.version.outputs.VERSION }}.mrpack
 
       - name: Upload Modrinth pack
         uses: actions/upload-artifact@v4
         with:
           name: Modrinth Pack
-          path: build/daxecord-*.mrpack
+          path: build/daxecraft-*.mrpack
           compression-level: 0

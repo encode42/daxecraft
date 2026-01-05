@@ -18,7 +18,7 @@ hash = "cf37def0d133ba176fed647f9d4f80d84f8a9fa1282a8e796af7fbd1504155d1"
 
 [[files]]
 file = "config/autowhitelist.json5"
-hash = "66eff7ea3fc09f9bc9de1963436b3191a4b217bfde1225eb6cba24c99098d47b"
+hash = "608100f4eea199139be78c24e2a82a96d4189b2d0b604d535b9f1cdbf3ea6425"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -46,7 +46,7 @@ hash = "988dc62342b307ef78f5c1c0fa3236ce77180591312dba5a065059c62c4c38f0"
 
 [[files]]
 file = "config/pl3xmap/config.yml"
-hash = "4f495a0d031cbb291c484ef2505500e9297afcfe15eb4f6c9cb094c657b0de49"
+hash = "670dddac6ec52e26df90561b13d90cc7a7cc00fd1d440375eb80b52a3c56ca37"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -103,6 +103,11 @@ hash = "fc8ffe66dc0c7eb55cf2ce38d1ae4bf1c4cdfbfdcda2636b1cd140c851e03cc5"
 metafile = true
 
 [[files]]
+file = "mods/always-shield.pw.toml"
+hash = "2de30c231010ae3d96b1b22530cc4f5f2239265686cf3a5aa364927d78a68149"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
 metafile = true
@@ -139,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "15a93334b9ed28ce4f4704801a48357814ca4aa6d546784c2e891de88d374f58"
+hash = "d413e9c034e4ba11a6e30e7b285622dde9841d4a1cc9a81085951de6f2914b46"
 metafile = true
 
 [[files]]
@@ -175,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/fsit.pw.toml"
 hash = "25c7ac89266d7b64fde33d5d634a33619da9f8f42bc60121fba05c2381d4e24f"
+metafile = true
+
+[[files]]
+file = "mods/im-fast.pw.toml"
+hash = "af09ef250b1baffa2f83e6774b959829857e4ac4e56be1e26ee01b3e7539052d"
 metafile = true
 
 [[files]]
@@ -229,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms/luckperms-h2-v2.mv.db"
-hash = "d89e1b82ff2f9c8d1baa7ef438767f1a186d9d39b8d4c4c4ce977d60c89aa781"
+hash = "d4be714133e1a34bbd9767ee6a47842521cd78610cd175031edf759a01564702"
 
 [[files]]
 file = "mods/minimotd.pw.toml"
@@ -254,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/pl3xmap.pw.toml"
 hash = "4954db739f44deaefce8945d9658c4c9cdbe0974cf6c6d1bef25a09b9d4c5570"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmarkers.pw.toml"
+hash = "1bd332237352b27803ddb63b4e4d9c1a4811bbeca242b9b9e0590e95514dc539"
 metafile = true
 
 [[files]]
@@ -334,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/worldgen-patches.pw.toml"
 hash = "fa16e33791bb4520cb32d13eb9cf8ead96d8ad5913585d9e44594c7e049c3c28"
+metafile = true
+
+[[files]]
+file = "mods/zvid.pw.toml"
+hash = "1c1946d163f7e6191b3a0f839b7c738e2636e08526357859587c649011cd880b"
 metafile = true
 
 [[files]]
