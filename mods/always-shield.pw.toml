@@ -1,0 +1,13 @@
+name = "Always Shield"
+filename = "AlwaysShield-1.2.0+mc1.21.11-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/f5J5N4a3/versions/cdynsdIj/AlwaysShield-1.2.0%2Bmc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "82209a9bec18878a9b368bb409a9d5fb3b4ef2e078e9a2ca50a97f108ad42d604271dded72d1c821bb45194b3e4f9e47a261522ef11ff9c016eee1295f6e715d"
+
+[update]
+[update.modrinth]
+mod-id = "f5J5N4a3"
+version = "cdynsdIj"
