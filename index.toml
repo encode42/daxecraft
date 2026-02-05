@@ -93,6 +93,10 @@ file = "config/universal-graves/models/modified_default.json"
 hash = "6585cf34c6ea5c7b0462cc7bdd032eb728bd14f1e644eee87df73fefbc11402c"
 
 [[files]]
+file = "config/vivecraft-server-config.toml"
+hash = "b3164ed754b84fce7a787de306a71346cc432d474148e2ad94eb4729be4807a8"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "b7a88ee8cde6ed604eb8e8a03619545472b204f3cee20ab64085349c633fde26"
 
@@ -103,6 +107,10 @@ hash = "abbad71b44fd62da1c2d38395cb535659055aa80df1b0d2cd9c764ad38986e7f"
 [[files]]
 file = "configureddefaults/config/modmenu.json"
 hash = "cbb272545d031a7343779e03311612d915d29c96883a82f1652d580857104649"
+
+[[files]]
+file = "configureddefaults/config/vivecraft-client-config.json"
+hash = "d203c0207854c6724676a7f46c6263c222bead85c915225fbb0c75193cd0b834"
 
 [[files]]
 file = "configureddefaults/options.txt"
