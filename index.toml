@@ -25,8 +25,12 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
+file = "config/clientsort.json"
+hash = "86a79291b13e4de973fcc3b95e8d36666dcca11fa4653adc40361e02d9a8df2a"
+
+[[files]]
 file = "config/custom-nametags/config.json"
-hash = "6287c594f508f8d83b606bdc0250c628531f7e31efae2c21036d93c468cabc90"
+hash = "e9055190bfa374acdacc0d91e15236c809a4e5fdcdc09f901d64ca0c2ede4b7c"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -65,8 +69,20 @@ file = "config/structure_layout_optimizer.jsonc"
 hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "22a91d667ac3f6db14ace78ce8ee8a7d69148430d99011caa7656d62f4512f4b"
+
+[[files]]
 file = "config/styled-nicknames.json"
 hash = "ba1910ea7e055ed46abbc5a90e746459d8583297ccb5de460f43941dc86b29ac"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "3486a3887e544101c7be8f36ebeb062bb59cb0c3702a8bbe8e51910467388218"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "aeb75535a9a66ddfceef8a7e71fa160eda64e12d4492ea99bc6ebc5206f15ca1"
 
 [[files]]
 file = "config/universal-graves/config.json"
@@ -94,7 +110,7 @@ hash = "820cb4a18e847108dac2024aaceaf4071b83b3c762f200055795fc43c78b55ba"
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "eb0287bff177c7dfab5802e6dd6adcf966b8f97101cbe583834950b41fc2af93"
+hash = "03383af39971df22d4581de1a8b6c0e80c6ecfd53b16716b9fc8e52580070753"
 metafile = true
 
 [[files]]
@@ -109,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
+hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
 metafile = true
 
 [[files]]
@@ -133,8 +149,13 @@ hash = "44632c5726b473b683614443083391a29951fc6de734043c8d5ddf1ab5d2764f"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "45cce9573e88c0e64e9b5f3985ad379bf65de5843b5468d924888b10c3ee9875"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9111c98ca48e19914906e364b9ff6ac05c31d5fd6bff2d5c68f6726e828bb28c"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -164,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
@@ -174,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
@@ -189,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
+hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
@@ -209,12 +230,12 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "8afd13c60f61fe1123f76169ec5588ce30b92f940a5e089098e622cb8c3bd21e"
+hash = "3e68a978949bb272d29a07d29dfcf760a3aaa208ae100b899f209a3bf202a501"
 metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "052f06542206356664307ad7f73ef7d37123da055dc362f13cfe76839afdb73a"
+hash = "c8c5df688622763ec590fda0b1c4d4adfd0152668db433f342cecd99fdd3fa0b"
 metafile = true
 
 [[files]]
@@ -224,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "c921067d060d427e9295c8434d0ab1232566008caa300030b42c2ee2c12ad059"
+hash = "bfed1269a7df386ccec63da05c3919fd52eae74fac1fe5b50c767fd26fa7d34e"
 metafile = true
 
 [[files]]
 file = "mods/locator-heads.pw.toml"
-hash = "3dae24b3d4a5d4a99b5cf5629d5df236e128fddaef9c6202a19f0136769a1bb2"
+hash = "456c5d17b5a7df47104822eeba8741265e9301d22acd79b9fee2a5870a4f60a5"
 metafile = true
 
 [[files]]
@@ -248,17 +269,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "01e1533b99c6ea0143b6d6f725bd00d17cd982e3b22f47912fce5d6bcd881fa9"
+hash = "aa25c3d4924ac4c62034dd4d218f496bc95d26d390e3d53b4e7457950c20dee9"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "a513aec6c289d2bb4db107a0b444345b8d63b6fb157543197f78ab9c1505a219"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
 metafile = true
 
 [[files]]
@@ -273,17 +294,82 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "f6b5347902783cc3b1fd4e47635fbafa6470a901d723b7577e0606362a079155"
+hash = "f90c7332fd1a0b2eae94dabfe4794946ba015f40d0143b7ddbe584ac9e76cdae"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "f1fb100d35bf940332ff0fa81f6f0d5d7c538dbe69e2a153e21f6a3f72448899"
+hash = "36f8a2a4b0185e97b7b62209bdb613e0e5414a12866b9649ad28e0b8c7be9442"
 metafile = true
 
 [[files]]
 file = "mods/preferred-gamerules.pw.toml"
 hash = "433ae6cd6f6e4cbc118502b65846bb066e32a907dc704ad192ca5b38b070320d"
+metafile = true
+
+[[files]]
+file = "mods/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
+hash = "88d6939dd1bc44b1969d77aa0fb744d8e9a68d54f272f02d045e8c0f5ff70995"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-axe-effective-skulls.pw.toml"
+hash = "681082f35780a81fdb7e238f4f156ffa8bed6cc32af3ae21f95ace10bf5705e7"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-hoe-effective-cactus.pw.toml"
+hash = "bbaeab1c624cf7e88c4fe1486981b929ec9c9309ee211c0316b90e6fe7a247eb"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-hoe-effective-froglights.pw.toml"
+hash = "03828f9245d3c0e0c4fd3052e47ad8a1ab8acee57a4f065063fb4a66a9a7667f"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-more-dyed-wool-and-carpet.pw.toml"
+hash = "68907da5711e4ed0419cdc02bf2077cbf8762fb2a0f05ca5d87bf431eaeed3c4"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-pickaxe-effective-glass.pw.toml"
+hash = "61f472ca2646e738bfe86d6652fd07b20d0f368a64bf9503763a7ad25558e270"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-pickaxe-effective-light-source-blocks.pw.toml"
+hash = "96ee830686f9d4c97de15ff208e7dcfd9d09facbc2ef864c98be23cd7bacbd20"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-placeable-new-paintings.pw.toml"
+hash = "08ec379f5e0e9286293d07e9b4acf0ef219d95a2d60a5cc5c870aa926099cbb0"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-concrete-powder.pw.toml"
+hash = "a3ade82e36f653809143db9fce2ddb8f88ee20e8514c60b9140246d870efc41c"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-concrete.pw.toml"
+hash = "546a8bdbd8fd8b12ca66b7ce67517141152eee389360412eee57f193a321500e"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-glass.pw.toml"
+hash = "92fcd5b2b9470cd3b42a8c2bee4ae92a1255f5a4c27fbcdbb451ca81886e6287"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-glazed-terracotta.pw.toml"
+hash = "d51a9465e821ab6c67225bc63ab78f82cf43d15f70d3772b45428df860b767cb"
+metafile = true
+
+[[files]]
+file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
+hash = "2ba0bc705c2c42bce0cb96832d279c878686b4eaceeb302b76cb02f642e6ff94"
 metafile = true
 
 [[files]]
@@ -297,18 +383,23 @@ hash = "4f47469cec06639d19edba8d5db63917a4b49fc3762c55b739e2b4b0f6e5f039"
 metafile = true
 
 [[files]]
+file = "mods/sessility.pw.toml"
+hash = "abf0afb52c03fe0752e6cf7ccf5e76766d1f042634a6161b949d82cdc400dc72"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
 metafile = true
 
 [[files]]
@@ -318,12 +409,22 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "424ba6f67a9392eb474ead2ea4ce5e3b6cc4f9041a4d27e61ad60a1abb009a50"
+hash = "e053f491047089bdce5b4479587f52ad190dc768f1ddf29dcc7541953b6a5a24"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "d339c1243682f47b0500ed2cb7334af2114c76ec8ea2f64d1c261ff75324775b"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "455cf624c832fe100360f6a3d654059f3edfbcd432288d7f19efbd21afae1460"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "39472a622a8583b847fe981f4c7608ee0768c2f30d0a11bb47fda6c0ad2a4add"
 metafile = true
 
 [[files]]
@@ -338,12 +439,17 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "71d8e5e37e9962620de802c9c2b194cbd7f86e34f63e6efbd0cdadac68750372"
+hash = "87366b5556491e1e08375112f1959525e5a78bcf1d09365e2710725028610e62"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "3e9e9fd988faa6783c03814a6a1b08c8f6aa289499ef1a07384da764198d9b9b"
 metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "98f6ceea9a07d7cf9f08bce86fe8fb340f806fa1a0b6ec8f6f16dcbcafd42475"
+hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
 metafile = true
 
 [[files]]
