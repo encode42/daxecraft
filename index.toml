@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "f90c7332fd1a0b2eae94dabfe4794946ba015f40d0143b7ddbe584ac9e76cdae"
+hash = "de8ac33882f1c4c83051c096e7cf181061b8c2157b899ebf023e7ac449e09d6d"
 metafile = true
 
 [[files]]
@@ -309,67 +309,67 @@ metafile = true
 
 [[files]]
 file = "mods/purpurpack-breed-axolotl-with-tropical-fish-item.pw.toml"
-hash = "88d6939dd1bc44b1969d77aa0fb744d8e9a68d54f272f02d045e8c0f5ff70995"
+hash = "f84d34dc0299855e9655d7a681b5270aedf56c2ec73716fcb123458e4c7e0524"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-axe-effective-skulls.pw.toml"
-hash = "681082f35780a81fdb7e238f4f156ffa8bed6cc32af3ae21f95ace10bf5705e7"
+hash = "9f1778baec431a37f99aaa6fdba465c7a2bab2a84916ace0a6d45599211cd01e"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-hoe-effective-cactus.pw.toml"
-hash = "bbaeab1c624cf7e88c4fe1486981b929ec9c9309ee211c0316b90e6fe7a247eb"
+hash = "2b954db2770d8b4114ab54b3987c3cbd57dc0a71cce6a9b1b1674904829b389a"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-hoe-effective-froglights.pw.toml"
-hash = "03828f9245d3c0e0c4fd3052e47ad8a1ab8acee57a4f065063fb4a66a9a7667f"
+hash = "29c1d83afbd0b626ee7c78af4ea0a8365fb3e3cce04967d1cbbfb7c3b0d92d44"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-more-dyed-wool-and-carpet.pw.toml"
-hash = "68907da5711e4ed0419cdc02bf2077cbf8762fb2a0f05ca5d87bf431eaeed3c4"
+hash = "95fb3e5bf1ab686c19070eedab973ba6db348c45e53687393d3d3ec9d6942b9a"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-pickaxe-effective-glass.pw.toml"
-hash = "61f472ca2646e738bfe86d6652fd07b20d0f368a64bf9503763a7ad25558e270"
+hash = "c04154a366efb768582d5a49a607e2036e2c0af42c1cb5c25ff07faed77ec0d3"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-pickaxe-effective-light-source-blocks.pw.toml"
-hash = "96ee830686f9d4c97de15ff208e7dcfd9d09facbc2ef864c98be23cd7bacbd20"
+hash = "8f7f6ecafeddd67b8015b545657a4abd0efb98bd11911bcf5d6b748380e21e89"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-placeable-new-paintings.pw.toml"
-hash = "08ec379f5e0e9286293d07e9b4acf0ef219d95a2d60a5cc5c870aa926099cbb0"
+hash = "8d2376c7f2025cd25c670057bad7336643cd52c8865c3ff3194ef80025fbf502"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-re-dye-concrete-powder.pw.toml"
-hash = "a3ade82e36f653809143db9fce2ddb8f88ee20e8514c60b9140246d870efc41c"
+hash = "3a9196ced432205dcb24b22257fb255ec921d3b8cbcfd68f885f8d8908d5bf43"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-re-dye-concrete.pw.toml"
-hash = "546a8bdbd8fd8b12ca66b7ce67517141152eee389360412eee57f193a321500e"
+hash = "9efdc683fb1f7999eb4042d2de7511d08b7d5627d0ffbe54f692435dc7a0e7c8"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-re-dye-glass.pw.toml"
-hash = "92fcd5b2b9470cd3b42a8c2bee4ae92a1255f5a4c27fbcdbb451ca81886e6287"
+hash = "cdf0e9117a8eaed22de382888fa0162856a94091a01ea611bc67f35924081645"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-re-dye-glazed-terracotta.pw.toml"
-hash = "d51a9465e821ab6c67225bc63ab78f82cf43d15f70d3772b45428df860b767cb"
+hash = "390b2a2da296941fa923c1e0cef74793757e385122670b4a18bc2c827f708f40"
 metafile = true
 
 [[files]]
 file = "mods/purpurpacks-re-dye-terracotta.pw.toml"
-hash = "2ba0bc705c2c42bce0cb96832d279c878686b4eaceeb302b76cb02f642e6ff94"
+hash = "b17d694f0bf74d12088870e5f1be851d9fe62ef525012a7c064708e543141c48"
 metafile = true
 
 [[files]]

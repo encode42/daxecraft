@@ -1,6 +1,6 @@
 name = "Re-Dye Glazed Terracotta [PurpurPack]"
 filename = "purpurpacks-re-dye-glazed-terracotta-2.6.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/mBcDOO3o/versions/FsbMBH6T/purpurpacks-re-dye-glazed-terracotta-2.6.jar"

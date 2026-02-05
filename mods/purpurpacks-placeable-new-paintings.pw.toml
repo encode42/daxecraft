@@ -1,6 +1,6 @@
 name = "Placeable New Paintings [PurpurPack]"
 filename = "purpurpacks-placeable-new-paintings-3.6.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/UDhPA1TM/versions/vS2Qz0IS/purpurpacks-placeable-new-paintings-3.6.jar"

@@ -1,6 +1,6 @@
 name = "Re-Dye Glass [PurpurPack]"
 filename = "purpurpacks-re-dye-glass-4.6.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/sbHA4Z4I/versions/uI8SzAPg/purpurpacks-re-dye-glass-4.6.jar"
