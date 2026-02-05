@@ -2,8 +2,28 @@
   "nametags": [
     {
       "id": "default:nick",
+      "display": "%styled-nicknames:display_name%",
       "update_interval": 20,
-      "literal": "%styled-nicknames:display_name%"
+      "visible_radius": -1.0,
+      "hidden_radius": -1.0
+    },
+    {
+      "id": "set_your_pronouns:has_pronouns",
+      "display": "<gray>%set_your_pronouns:pronouns%</gray>",
+      "update_interval": 20,
+      "visible_radius": 10.0,
+      "hidden_radius": -1.0,
+      "observee_predicate": {
+        "type": "negate",
+        "value": {
+          "type": "equal",
+          "value_1": {
+            "type": "placeholder",
+            "placeholder": "set_your_pronouns:pronouns"
+          },
+          "value_2": "Pronouns not set"
+        }
+      }
     }
   ]
 }
