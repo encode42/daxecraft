@@ -1,0 +1,13 @@
+name = "Hoe Effective Froglights [PurpurPack]"
+filename = "purpurpacks-hoe-effective-froglights-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dpLYDTiH/versions/Ndv4KFSy/purpurpacks-hoe-effective-froglights-3.6.jar"
+hash-format = "sha512"
+hash = "28467f56c31f2057e2db1f5744887b9b6aa01dece5b1a9be93d56980e5cb5f575b13aefb85b71bb909c447c8d3d7a9279e74f9480338c33daa9b577b8852ea54"
+
+[update]
+[update.modrinth]
+mod-id = "dpLYDTiH"
+version = "Ndv4KFSy"
