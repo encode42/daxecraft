@@ -1,0 +1,13 @@
+name = "Inconsistentize"
+filename = "inconsistentize-fabric-1.21.11-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vsgwv9s3/versions/ECBjlknu/inconsistentize-fabric-1.21.11-1.0.1.jar"
+hash-format = "sha512"
+hash = "5b1ee22e37532285ab13e702ccf2a821a86f763fe1d2ca54c98aca89c82fbc9a5f4e39a18f5b9f1d56d59daed44fd1a119776d16c9e78a09fd2400ba0a305926"
+
+[update]
+[update.modrinth]
+mod-id = "vsgwv9s3"
+version = "ECBjlknu"
