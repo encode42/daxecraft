@@ -226,6 +226,11 @@ hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
+file = "mods/inconsistentize.pw.toml"
+hash = "a7274ae4169289cb3b9b854f1880dc098061bc8ae37a1d0b1372aa91728b75ca"
+metafile = true
+
+[[files]]
 file = "mods/invisible-frames-mod.pw.toml"
 hash = "a32b6a52f95718610b1bbf9e52979f633374faa57b8e068691e21d02ede39c22"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/server-sided-vein-mine.pw.toml"
 hash = "4f47469cec06639d19edba8d5db63917a4b49fc3762c55b739e2b4b0f6e5f039"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
 metafile = true
 
 [[files]]
