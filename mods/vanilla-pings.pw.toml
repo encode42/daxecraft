@@ -1,0 +1,13 @@
+name = "Vanilla Pings"
+filename = "vanillapings-1.21.11-v1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6Y8Vr1q/versions/KkqyenmF/vanillapings-1.21.11-v1.10.2.jar"
+hash-format = "sha512"
+hash = "6c92d8c00800e8a857fbc7f51464bc09c2cb2262adb9307e61a9a65c0b5182a791c0b6481221466331e0bd57ccb7c02ffac24ad32d380ea3068c58746bfbcae0"
+
+[update]
+[update.modrinth]
+mod-id = "P6Y8Vr1q"
+version = "KkqyenmF"
