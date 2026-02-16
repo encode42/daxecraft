@@ -9,6 +9,7 @@
     "hotbarScope": "HOTBAR",
     "extraSlotScope": "NONE",
     "bundlesUseRightClick": false,
+    "transferReverseOrder": true,
     "alwaysMatchByType": false,
     "typeMatchTags": [
       "enchantable/weapon",
@@ -31,56 +32,22 @@
     "soundPitchMax": 2.0,
     "soundVolume": 0.2,
     "allowSoundOverlap": true,
-    "showButtons": false,
-    "showButtonTooltips": false,
+    "showButtons": true,
+    "showButtonTooltips": true,
     "anchorButtonsLeft": false,
+    "buttonsHorizontal": true,
     "firstButtonOp": "SORT",
     "secondButtonOp": "STACK_FILL",
     "thirdButtonOp": "MATCH_TRANSFER",
     "fourthButtonOp": "TRANSFER",
     "layoutOffset": {
-      "x": -4,
-      "y": 0
+      "x": -48,
+      "y": -14
     },
     "classPolicies": {
-      "com.simibubi.create.content.equipment.toolbox.ToolboxMenu": {
-        "className": "com.simibubi.create.content.equipment.toolbox.ToolboxMenu",
-        "sortPolicy": "NONE",
-        "stackFillPolicy": "NONE",
-        "matchTransferPolicy": "NONE",
-        "transferPolicy": "NONE",
-        "autoOpOther": false,
-        "ignoredSlots": []
-      },
-      "com.tiviacz.travelersbackpack.inventory.menu.BackpackSettingsMenu": {
-        "className": "com.tiviacz.travelersbackpack.inventory.menu.BackpackSettingsMenu",
-        "sortPolicy": "NONE",
-        "stackFillPolicy": "NONE",
-        "matchTransferPolicy": "NONE",
-        "transferPolicy": "NONE",
-        "autoOpOther": false,
-        "ignoredSlots": []
-      },
-      "com.tom.storagemod.menu.CraftingTerminalMenu": {
-        "className": "com.tom.storagemod.menu.CraftingTerminalMenu",
-        "sortPolicy": "NONE",
-        "stackFillPolicy": "NONE",
-        "matchTransferPolicy": "NONE",
-        "transferPolicy": "NONE",
-        "autoOpOther": false,
-        "ignoredSlots": []
-      },
-      "com.tom.storagemod.menu.StorageTerminalMenu": {
-        "className": "com.tom.storagemod.menu.StorageTerminalMenu",
-        "sortPolicy": "NONE",
-        "stackFillPolicy": "NONE",
-        "matchTransferPolicy": "NONE",
-        "transferPolicy": "NONE",
-        "autoOpOther": false,
-        "ignoredSlots": []
-      },
       "net.minecraft.class_1661": {
         "className": "net.minecraft.class_1661",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
         "stackFillPolicy": "KEYBIND",
         "matchTransferPolicy": "KEYBIND_BUTTON",
@@ -90,8 +57,9 @@
       },
       "net.minecraft.class_1707": {
         "className": "net.minecraft.class_1707",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
-        "stackFillPolicy": "KEYBIND_BUTTON",
+        "stackFillPolicy": "KEYBIND",
         "matchTransferPolicy": "KEYBIND_BUTTON",
         "transferPolicy": "KEYBIND_BUTTON",
         "autoOpOther": false,
@@ -99,6 +67,7 @@
       },
       "net.minecraft.class_1722": {
         "className": "net.minecraft.class_1722",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND",
         "stackFillPolicy": "KEYBIND",
         "matchTransferPolicy": "KEYBIND_BUTTON",
@@ -108,6 +77,7 @@
       },
       "net.minecraft.class_1724": {
         "className": "net.minecraft.class_1724",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
         "stackFillPolicy": "KEYBIND",
         "matchTransferPolicy": "KEYBIND",
@@ -117,6 +87,7 @@
       },
       "net.minecraft.class_1730": {
         "className": "net.minecraft.class_1730",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
         "stackFillPolicy": "KEYBIND_BUTTON",
         "matchTransferPolicy": "KEYBIND_BUTTON",
@@ -126,6 +97,7 @@
       },
       "net.minecraft.class_1733": {
         "className": "net.minecraft.class_1733",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
         "stackFillPolicy": "KEYBIND_BUTTON",
         "matchTransferPolicy": "KEYBIND_BUTTON",
@@ -135,6 +107,7 @@
       },
       "net.minecraft.class_2621": {
         "className": "net.minecraft.class_2621",
+        "offsetFromSlot": false,
         "sortPolicy": "KEYBIND_BUTTON",
         "stackFillPolicy": "KEYBIND_BUTTON",
         "matchTransferPolicy": "KEYBIND_BUTTON",
