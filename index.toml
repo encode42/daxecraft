@@ -25,10 +25,6 @@ file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
-file = "config/clientsort.json"
-hash = "86a79291b13e4de973fcc3b95e8d36666dcca11fa4653adc40361e02d9a8df2a"
-
-[[files]]
 file = "config/custom-nametags/config.json"
 hash = "e9055190bfa374acdacc0d91e15236c809a4e5fdcdc09f901d64ca0c2ede4b7c"
 
@@ -93,12 +89,20 @@ file = "config/universal-graves/models/modified_default.json"
 hash = "6585cf34c6ea5c7b0462cc7bdd032eb728bd14f1e644eee87df73fefbc11402c"
 
 [[files]]
+file = "config/vanillapings/vanillapings.properties"
+hash = "2d58571948df2ce77ae3e11b6cb5480a00036526b803e8616d7ee6100895b729"
+
+[[files]]
 file = "config/vivecraft-server-config.toml"
 hash = "b3164ed754b84fce7a787de306a71346cc432d474148e2ad94eb4729be4807a8"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "b7a88ee8cde6ed604eb8e8a03619545472b204f3cee20ab64085349c633fde26"
+
+[[files]]
+file = "configureddefaults/config/clientsort.json"
+hash = "ff52611dd0a7f0e33440830895ee8bb630b832fb9ce15199f1a4754de02ae564"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -114,7 +118,7 @@ hash = "d203c0207854c6724676a7f46c6263c222bead85c915225fbb0c75193cd0b834"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "820cb4a18e847108dac2024aaceaf4071b83b3c762f200055795fc43c78b55ba"
+hash = "b760592f78d4b333ccf4d5bb767a8f927fce242b767232b5823e67299dfee7ef"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -158,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "45cce9573e88c0e64e9b5f3985ad379bf65de5843b5468d924888b10c3ee9875"
+hash = "ac4f8c49d2fbfeba5a5eae7e14c19fd334b7ee08a79402d2992867668f726609"
 metafile = true
 
 [[files]]
@@ -198,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d2ce86fdedd05cd53966e1d16b2901206c98b43622260a35d3038e2c47f6250"
+hash = "56d602a06b403aee8d9bc5a2ddbabaf19c051200aa883fe3bb4feb9f9f88afe5"
 metafile = true
 
 [[files]]
@@ -208,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "25c7ac89266d7b64fde33d5d634a33619da9f8f42bc60121fba05c2381d4e24f"
+hash = "dfce6b79ec925fce169901390417313aa738b68979cfbb3f35f08fc9fd7e9080"
 metafile = true
 
 [[files]]
@@ -248,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
@@ -282,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "aa25c3d4924ac4c62034dd4d218f496bc95d26d390e3d53b4e7457950c20dee9"
+hash = "48dba8042e4403579c7735698e51ce34596998de9ed5ca7156515743c53d1965"
 metafile = true
 
 [[files]]
@@ -297,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/pl3xmarkers.pw.toml"
-hash = "1bd332237352b27803ddb63b4e4d9c1a4811bbeca242b9b9e0590e95514dc539"
+hash = "b242bdf2c8dea1622ed185e440718666dd9243c096aea2dd058b23703011dbdd"
 metafile = true
 
 [[files]]
@@ -402,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
 metafile = true
 
 [[files]]
@@ -451,8 +455,13 @@ hash = "87366b5556491e1e08375112f1959525e5a78bcf1d09365e2710725028610e62"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-pings.pw.toml"
+hash = "1c6ad489bc53202c23605a0d62ed073fcbb065ea2c2e6207c2045e0e0a53f0a0"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "3e9e9fd988faa6783c03814a6a1b08c8f6aa289499ef1a07384da764198d9b9b"
+hash = "60250864a25455ade1973db47cb8370a47920736c71c00505a0842b52f9ef394"
 metafile = true
 
 [[files]]

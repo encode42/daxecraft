@@ -1,13 +1,13 @@
 name = "Vivecraft"
-filename = "vivecraft-1.21.11-1.3.5-fabric.jar"
+filename = "vivecraft-1.21.11-1.3.7-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/hOgOmCgU/vivecraft-1.21.11-1.3.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/GovTWsJu/vivecraft-1.21.11-1.3.7-fabric.jar"
 hash-format = "sha512"
-hash = "ff96db1844daa512435e88a6e9cce77d4a507af94223d104381442428272addecbb9e23ae39617baf80087c4efa3bc54569f76eb547fa53f93f8340e053de5a5"
+hash = "dbb261dbe792473691fb41d1963386d56c8cc53d93caaa8d3b31ab98eae9f47b12507a57b778325f0389812eea68686658d763e8dc388dd91bebc9fa962dba8e"
 
 [update]
 [update.modrinth]
 mod-id = "wGoQDPN5"
-version = "hOgOmCgU"
+version = "GovTWsJu"

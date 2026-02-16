@@ -1,13 +1,14 @@
 name = "Pl3xMarkers"
-filename = "Pl3xMarkers-0.6.0-snapshot+1.21.11.jar"
+filename = "Pl3xMarkers-0.6.5+1.21.11.jar"
 side = "server"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/pL3tkgTC/versions/NmOnmiQs/Pl3xMarkers-0.6.0-snapshot%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/pL3tkgTC/versions/LXSI76Gr/Pl3xMarkers-0.6.5%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "a37158497966f939db4e6735d7e0e8a1c90ad0c29967b7e348b2cc67fbb2c27f234f5e1159b04c652a3abfbf2c87236b87b09e3f35f222da2a89a2c4927b7a84"
+hash = "c868d574078d2297399e666de34268a41adba0f29551ec4176bc9352de035a1f315f6eea04120d1e6a1fef58ff86382e03d12a66791efd9128292f96ddf96970"
 
 [update]
 [update.modrinth]
 mod-id = "pL3tkgTC"
-version = "NmOnmiQs"
+version = "LXSI76Gr"
