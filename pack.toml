@@ -1,12 +1,12 @@
 name = "daxecraft"
 author = "encode42"
-version = "1.2.0"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "59b9ce185bbec4c928f88941f27b046e0b723bbab6bb66697af80a8bbd2c432f"
+hash = "6a2dded3e50202b98756b59adf28a27c05d8413379c79180b3bbf46c63005f6b"
 
 [versions]
 fabric = "0.18.4"

@@ -14,11 +14,11 @@ hash = "a439471712cd0db7c5983740dcfeffa33fda198c94e9ee7c0ff8ff95caffc28e"
 
 [[files]]
 file = "config/audioplayer/audioplayer-server.properties"
-hash = "cf37def0d133ba176fed647f9d4f80d84f8a9fa1282a8e796af7fbd1504155d1"
+hash = "98594380e54b61ec948de253d9e99b61e3d8f11bf9af844e1de1d365f12b84ff"
 
 [[files]]
 file = "config/autowhitelist.json5"
-hash = "608100f4eea199139be78c24e2a82a96d4189b2d0b604d535b9f1cdbf3ea6425"
+hash = "8b5a6ae4c1d23c1f4cafc7e1420fe1a7dcf029fae5980de90af31865c88c7cf5"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -31,6 +31,10 @@ hash = "e9055190bfa374acdacc0d91e15236c809a4e5fdcdc09f901d64ca0c2ede4b7c"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "5c39746c2be5b7eabe3cf2fa6b02af9ef80d805bab1c1c5207330a79c7306e4c"
+
+[[files]]
+file = "config/image2map.json"
+hash = "ba5e873da04a8ed4751c9cfb2135b8ea0b903da994de16e0944ca769988b1c7d"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
@@ -90,7 +94,7 @@ hash = "6585cf34c6ea5c7b0462cc7bdd032eb728bd14f1e644eee87df73fefbc11402c"
 
 [[files]]
 file = "config/vanillapings/vanillapings.properties"
-hash = "2d58571948df2ce77ae3e11b6cb5480a00036526b803e8616d7ee6100895b729"
+hash = "a1254bdc3383632b95af8ba493a3c0fd00591fd9de6ca1439d59011a04e5fd46"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
@@ -99,6 +103,10 @@ hash = "b3164ed754b84fce7a787de306a71346cc432d474148e2ad94eb4729be4807a8"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "b7a88ee8cde6ed604eb8e8a03619545472b204f3cee20ab64085349c633fde26"
+
+[[files]]
+file = "config/voxyworldgenv2.json"
+hash = "558074ea9469bf7041ae718d4f8cf6a5d258fb89aea0cc5e8aba63eff674d992"
 
 [[files]]
 file = "configureddefaults/config/clientsort.json"
@@ -221,6 +229,11 @@ hash = "af09ef250b1baffa2f83e6774b959829857e4ac4e56be1e26ee01b3e7539052d"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "71915821f61cc0abc0920e331d41ce5d2ce5a6bd1edb9ec35d540e485f890a3a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
@@ -243,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "bffcd2a49beec273ee84a02f1d163bc64884ddb67a2ca0c4e66452230a5091de"
 metafile = true
 
 [[files]]
@@ -277,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms/luckperms-h2-v2.mv.db"
-hash = "d4be714133e1a34bbd9767ee6a47842521cd78610cd175031edf759a01564702"
+hash = "849434c48765c22a907b101e1cb7b5736a6a03037c2b71d02ae4a0b7db13fe82"
 
 [[files]]
 file = "mods/minimotd.pw.toml"
@@ -472,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "60250864a25455ade1973db47cb8370a47920736c71c00505a0842b52f9ef394"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "e7f29074af1c2c983b2658b79f2123184840e8a02868aa970a0c955b908452fb"
 metafile = true
 
 [[files]]
