@@ -30,21 +30,25 @@
 	*/
 	"command_permission_level": 3,
 	// The whitelist entry settings, please refer to the documentation to set them up
-	"entries": [
-	{
-      "roles": [
-        "988523383094378496",
-        "884221622465228830",
-        "943712065040810044",
-        "@hatchling",
-        "838912594076237854",
-        "987237168332304415",
-        "1456488790846607360"
-      ],
-      "type": "autowhitelist:luckperms/group",
-      "execute": {
-        "group": "linked"
-      }
-    }
+    "entries": [
+        {
+            "roles": [
+                "988523383094378496",
+                "884221622465228830",
+                "943712065040810044",
+                "@hatchling",
+                "838912594076237854",
+                "987237168332304415",
+                "1456488790846607360"
+            ],
+            "type": "autowhitelist:luckperms/group",
+            "execute": {
+                "group": "linked"
+            }
+        },
+        {
+            "roles": [],
+            "type": "autowhitelist:whitelist"
+        }
     ]
 }
