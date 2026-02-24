@@ -106,7 +106,7 @@ hash = "b7a88ee8cde6ed604eb8e8a03619545472b204f3cee20ab64085349c633fde26"
 
 [[files]]
 file = "config/voxyworldgenv2.json"
-hash = "558074ea9469bf7041ae718d4f8cf6a5d258fb89aea0cc5e8aba63eff674d992"
+hash = "12d3f5d66d2565fc42130b74852fcf27c3f2f248cf54c344928e62f7ae4362d8"
 
 [[files]]
 file = "configureddefaults/config/clientsort.json"
