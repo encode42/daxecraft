@@ -34,14 +34,15 @@
     "allowSoundOverlap": true,
     "showButtons": true,
     "showButtonTooltips": true,
-    "anchorButtonsLeft": false,
+    "anchorButtonsLeft": true,
+    "justifyButtonsTopLeft": false,
     "buttonsHorizontal": true,
     "firstButtonOp": "SORT",
     "secondButtonOp": "STACK_FILL",
     "thirdButtonOp": "MATCH_TRANSFER",
     "fourthButtonOp": "TRANSFER",
     "layoutOffset": {
-      "x": -48,
+      "x": 156,
       "y": -14
     },
     "classPolicies": {
