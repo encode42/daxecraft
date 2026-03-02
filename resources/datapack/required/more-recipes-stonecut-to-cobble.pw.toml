@@ -1,0 +1,13 @@
+name = "More Recipes: Stonecut to Cobble"
+filename = "more recipes.stonecutting.cobble 5.6.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iFuBBBt/versions/W6q0VJcN/more%20recipes.stonecutting.cobble%205.6.0.zip"
+hash-format = "sha512"
+hash = "7ef79abfda72095dc55717b074ff971885b6cd0c5d36ca7ca913217b2b051e812ab6768fd183285a42ea3eddb9c3d78d7e99bd389c0d183a1d3d04dabbb52f67"
+
+[update]
+[update.modrinth]
+mod-id = "2iFuBBBt"
+version = "W6q0VJcN"
