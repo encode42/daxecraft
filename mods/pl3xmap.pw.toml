@@ -1,13 +1,14 @@
 name = "Pl3xMap"
-filename = "Pl3xMap-1.21.11-539.jar"
-side = "server"
+filename = "Pl3xMap-1.21.11-541.jar"
+side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/34T8oVNY/versions/anv0WAKr/Pl3xMap-1.21.11-539.jar"
+url = "https://cdn.modrinth.com/data/34T8oVNY/versions/kh6fCyFq/Pl3xMap-1.21.11-541.jar"
 hash-format = "sha512"
-hash = "0302e6cad4b889e22f3e0d149c123d00df02dc0891af6baccee085d283cd8865a028de79f68fd8e6847b5d25e46b98e1a667f3f40ddd4690b5de534f0f46491a"
+hash = "526b56ebf83020673bdd8a0f37174d53b4adfe6c7e4c39cdcf6a2588727caafa707e48889bb6dc92daf2d4ac6f5b029c5d059b42309ea614b7e0f6711629403d"
 
 [update]
 [update.modrinth]
 mod-id = "34T8oVNY"
-version = "anv0WAKr"
+version = "kh6fCyFq"

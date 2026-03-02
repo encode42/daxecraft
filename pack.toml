@@ -1,13 +1,16 @@
 name = "daxecraft"
 author = "encode42"
-version = "1.3.0"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bed5cbec4596b3e262e52b864dc354ebca62181e525cb07cb4a1e2955a62ebb"
+hash = "bedf6aad382b5aa3c340e9279832b9efb462e0e8480ad0768f8a555f3cab3aa0"
 
 [versions]
 fabric = "0.18.4"
 minecraft = "1.21.11"
+
+[options]
+datapack-folder = "resources/datapack/required"

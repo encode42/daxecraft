@@ -110,7 +110,7 @@ hash = "12d3f5d66d2565fc42130b74852fcf27c3f2f248cf54c344928e62f7ae4362d8"
 
 [[files]]
 file = "configureddefaults/config/clientsort.json"
-hash = "ff52611dd0a7f0e33440830895ee8bb630b832fb9ce15199f1a4754de02ae564"
+hash = "00d9cb8185e684543d9d76865eaf4a76f7a47beaa1f893848b1c68fe9b4a13b0"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -169,8 +169,13 @@ hash = "44632c5726b473b683614443083391a29951fc6de734043c8d5ddf1ab5d2764f"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
-hash = "ac4f8c49d2fbfeba5a5eae7e14c19fd334b7ee08a79402d2992867668f726609"
+hash = "14dfbcbefbcff28bf2529c1561fd649f12a0b9f89893d1e9afd56aee4927c522"
 metafile = true
 
 [[files]]
@@ -224,13 +229,18 @@ hash = "dfce6b79ec925fce169901390417313aa738b68979cfbb3f35f08fc9fd7e9080"
 metafile = true
 
 [[files]]
+file = "mods/headpat.pw.toml"
+hash = "08aa551852ddebfe6ab99d51d3b036aec441625989404b23165c5f27fa921457"
+metafile = true
+
+[[files]]
 file = "mods/im-fast.pw.toml"
 hash = "af09ef250b1baffa2f83e6774b959829857e4ac4e56be1e26ee01b3e7539052d"
 metafile = true
 
 [[files]]
 file = "mods/image2map.pw.toml"
-hash = "71915821f61cc0abc0920e331d41ce5d2ce5a6bd1edb9ec35d540e485f890a3a"
+hash = "544a06e28a158f2bf4f00310f681a7230aa90bf00df20de592e299de77ed80e7"
 metafile = true
 
 [[files]]
@@ -319,12 +329,12 @@ metafile = true
 
 [[files]]
 file = "mods/pl3xmap.pw.toml"
-hash = "4954db739f44deaefce8945d9658c4c9cdbe0974cf6c6d1bef25a09b9d4c5570"
+hash = "14dfc9187da3a5032ae3590486761c95e7d1431c1792e7dd2f08a62feaee8900"
 metafile = true
 
 [[files]]
 file = "mods/pl3xmarkers.pw.toml"
-hash = "b242bdf2c8dea1622ed185e440718666dd9243c096aea2dd058b23703011dbdd"
+hash = "ae9b91b475c5c3bc538204c2917510213a268a51ed373854b7a47e60c2c90048"
 metafile = true
 
 [[files]]
@@ -439,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
@@ -499,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
+hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
 metafile = true
 
 [[files]]
@@ -511,6 +521,19 @@ metafile = true
 file = "mods/zvid.pw.toml"
 hash = "1c1946d163f7e6191b3a0f839b7c738e2636e08526357859587c649011cd880b"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/more-recipes-stonecut-to-cobble.pw.toml"
+hash = "988c805bc88a2fc2efbf6cdbe271d66c6a1a20cadff6f125a3053362d6cd1910"
+metafile = true
+
+[[files]]
+file = "resources/datapack/useful_channeling/data/minecraft/enchantment/channeling.json"
+hash = "9d76fae3c2e75013c71376d10fca06550116b9684ae176b4ef84b82a90ff9598"
+
+[[files]]
+file = "resources/datapack/useful_channeling/pack.mcmeta"
+hash = "907caa47994d970d8625b079ca6b0183c04e7f14979db0a91b92f9837ec269f8"
 
 [[files]]
 file = "resources/resourcepack/required/daxecraft/assets/minecraft/textures/gui/title/background/panorama_0.png"
